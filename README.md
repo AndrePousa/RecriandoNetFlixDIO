@@ -5,6 +5,7 @@ _**Projeto: Recriando NetFlix.**_
 		**Alterações feitas:** 
 
 - Foi adicionado um link para o site oficial da Netflix em informações; 
+- Foram inplementados links para levar o usuario a pontos do layout;
 - O tema foi alterado para Policia Flix;
 - Foi adicionado mais um barra de rolagem:
 - Estão divididos os filmes por categorias;
