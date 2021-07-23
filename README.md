@@ -2,6 +2,8 @@
 
 _**Projeto: Recriando NetFlix.**_ 
 
+O objetivo do projeto era refaze-lo alterando pontos a escolha do programador. 
+
 		**Alterações feitas:** 
 
 - Foi adicionado um link para o site oficial da Netflix em informações; 
@@ -9,7 +11,7 @@ _**Projeto: Recriando NetFlix.**_
 - O tema foi alterado para Policia Flix;
 - Foi adicionado mais um barra de rolagem:
 - Estão divididos os filmes por categorias;
-- Foi colocado hover em varias partes do layout
+- Foi colocado hover em varias partes do layout;
 - As imagens dos filmes são marcadas com borda amarela quando estão selecionadas;
-- Foi adicionado Footer com contatos do programador. 
+- Foi adicionado Footer com contatos do programador; 
 - O efeito hover foi mais explorado nos botões e títulos.
