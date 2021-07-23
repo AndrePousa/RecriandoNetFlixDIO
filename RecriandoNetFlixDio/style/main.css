@@ -13,7 +13,7 @@
 
 /*elementos base*/
 body{
-   background: var(--preta);
+   background: var(--preta); 
    font-family: 'Arial', Times, serif;
    color:white;  
 }
@@ -70,16 +70,15 @@ header nav a:hover{
 .filme-principal{
     font-size:16px;
     /* a imagem não está indo pelo css */ 
-    background:linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/img/capa-house.jpg');
-
+   /* background:linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('./img/Policia/caveira.jpg'); */
     height:400px;
     background-size:cover; /* area de cobertura da div */ 
-    display: flex;
+    display: flex; 
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
+   
 }
-
 .filme-principal .descricao{
     margin-top: 10px;
     margin-bottom: 40px;
@@ -116,8 +115,8 @@ header nav a:hover{
 }
 
 .botao:hover{
-    background-color:white;
-    color:black;
+    background-color:#E50914;
+    color:white;
 }
 
 .botao i{
@@ -176,8 +175,14 @@ footer h3{
 footer h3:hover{
     color:#E50914;
     transition: all 400ms ease;
+}
+
+.sorriso{
+    width: 40px;
+    height: 40px;
 
 }
+
 
 
 
