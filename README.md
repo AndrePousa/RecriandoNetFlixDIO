@@ -4,7 +4,7 @@ _**Projeto: Recriando NetFlix.**_
 
 O objetivo do projeto era refaze-lo alterando pontos a escolha do programador. 
 
-		**Alterações feitas:** 
+		**Alterações feitas** 
 
 - Foi adicionado um link para o site oficial da Netflix em informações; 
 - Foram inplementados links para levar o usuario a pontos do layout;
