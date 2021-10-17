@@ -70,7 +70,7 @@ header nav a:hover{
 .filme-principal{
     font-size:16px;
     /* a imagem não está indo pelo css */ 
-   /* background:linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('./img/Policia/caveira.jpg'); */
+    background:linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('../img/Policia/caveira.jpg'); 
     height:400px;
     background-size:cover; /* area de cobertura da div */ 
     display: flex; 
